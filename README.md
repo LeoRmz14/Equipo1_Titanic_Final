@@ -64,7 +64,7 @@ Los comentarios y las correciones aplicadas para la entrega final fueron:
 Ahora se incluye en el reporte final la razón por la que se utilizó un número aleatorio para asignar las edades faltantes a instancias que no tenian este atributo. Se incluyen las correciones específicadas sobre el pdf en la entrega 2, donde se agregaron referencias en introducción y en la explicación del funcionamiento de cada modelo de ML utilizado agregando más información en cada uno sobre su sustento matemático. Se corrigeron ligeros detalles de redacción y ortografía. Se mejoró la presentación de los resultados obtenidos en tablas estructuradas para garantizar una mejor visualización. Además, se completó el archivo final con el refinamiento de cada modelo, los resultados finales obtenidos y conclusiones.
 
 
-##Sobre el repositorio
+## Sobre el repositorio
 
 El repositorio contiene los archivos utilizados para los modelos y los resultados obtenidos de la siguiente manera:
  
