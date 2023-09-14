@@ -68,13 +68,13 @@ Ahora se incluye en el reporte final la razón por la que se utilizó un número
 
 El repositorio contiene los archivos utilizados para los modelos y los resultados obtenidos de la siguiente manera:
  
-En el repositorio: Se muestran las bases de datos utilizadas train.csv y test.csv
+**En el repositorio**: Se muestran las bases de datos utilizadas train.csv y test.csv
 
-1ra carpeta "Limpieza y visualización de datos": Se incluyen los procesos ETL implementados así como el One Hot Encoding (variables dummie). Además, se incluyen los 10 csv para las diferentes predicciones de acuerdo al dataset (Se seleccionaron 5 datasets de entrenamiento y 5 de prueba)
+**1ra carpeta** "Limpieza y visualización de datos": Se incluyen los procesos ETL implementados así como el One Hot Encoding (variables dummie). Además, se incluyen los 10 csv para las diferentes predicciones de acuerdo al dataset (Se seleccionaron 5 datasets de entrenamiento y 5 de prueba)
 
 
-2da carpeta "Implementación de modelos": Se incluyen los códigos de los modelos implementados sin refinamiento
+**2da carpeta** "Implementación de modelos": Se incluyen los códigos de los modelos implementados sin refinamiento
 
-3ra carpeta "Refinamiento del modelo": Se incluyen los con códigos donde se utiliza RandomSearchCV como estrategia de refinamiento
+**3ra carpeta** "Refinamiento del modelo": Se incluyen los con códigos donde se utiliza RandomSearchCV como estrategia de refinamiento
 
-4ta carpeta "Resultados": Se incluyen los resultados finales que se subieron a la plataforma Kaggle
+**4ta carpeta** "Resultados": Se incluyen los resultados finales que se subieron a la plataforma Kaggle
