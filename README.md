@@ -6,10 +6,15 @@ El reto se basó en estructurar y limpiar la base de datos de tripalantes del Ti
 
 # Equipo 1: 
 Pablo Gabriel Galeana Benítez - A01735281
+
 Leonardo Ramírez Ramírez - A01351715
+
 Miguel Chávez Silva - A01661109
+
 Alessandro Arguelles Elias - A00829536
+
 Luis Eduardo Aguilar Moreno - A01367545
+
 Agustín Tapia - A01367639
 
 
