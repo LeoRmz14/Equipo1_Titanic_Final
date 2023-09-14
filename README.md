@@ -82,4 +82,4 @@ El repositorio contiene los archivos utilizados para los modelos y los resultado
 
 **3ra carpeta** "Refinamiento del modelo": Se incluyen los con códigos donde se utiliza RandomSearchCV como estrategia de refinamiento
 
-**4ta carpeta** "Resultados": Se incluyen los resultados finales que se subieron a la plataforma Kaggle
+**4ta carpeta** "Resultados": Se incluyen los resultados finales obtenidos tras subir las predicciones a la plataforma Kaggle
