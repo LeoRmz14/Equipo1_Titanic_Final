@@ -75,7 +75,7 @@ El repositorio contiene los archivos utilizados para los modelos y los resultado
  
 **En el repositorio**: Se muestran las bases de datos utilizadas train.csv y test.csv
 
-**1ra carpeta** "Limpieza y visualización de datos": Se incluyen los procesos ETL implementados así como el One Hot Encoding (variables dummie). Además, se incluyen los 10 csv para las diferentes predicciones de acuerdo al dataset (Se seleccionaron 5 datasets de entrenamiento y 5 de prueba)
+**1ra carpeta** "Limpieza y visualización de datos": Se incluyen los códigos de los procesos ETL implementados así como el One Hot Encoding (variables dummie). Entre ellos, están los 10 csv para las diferentes predicciones de acuerdo al dataset (Se seleccionaron 5 datasets de entrenamiento y 5 de prueba).
 
 
 **2da carpeta** "Implementación de modelos": Se incluyen los códigos de los modelos implementados sin refinamiento
